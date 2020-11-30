@@ -1,1 +1,6 @@
-jjnkjn
+Bucle For: En la programacion existen tareas que se repiten una y otra vez por un tiempo determinado, donde se definen 3 reglas al declararlo: utiliza un objeto (variable) inicializado en cero, se define una condicion y su incremento o decremento.
+
+Operadores logicos
+- && : Este operador permite realizar una comparacion de dos objetos, donde arroja resultado verdadero si ambos objetos son verdadero, en caso contrario devuelve falso.
+- || : Este operador permite realizar una comparacion de dos objetos, donde arroja resultado verdadero donde como minimo uno de los objetos es verdadero, o si ambos son verdadero; caso contrario arroja falso.
+- ! : Este operador permite que el resultado de objeto o declaracion cambie al opuesto, de verdadero a falso o viceversa.
