@@ -1,0 +1,2 @@
+Array: es un conjunto de objetos (variables, funciones, arrays) como si en una caja con infinitos divisores se guardaran elementos, 
+       que siguen un orden, en lista o pila contando desde cero cada objeto. Pueden agregarse o quitarse al principio o final del array elementos.
