@@ -106,6 +106,8 @@ function multiplicarArgumentos() {
     return 0;
   var resultado = 1;
   for (var i = 0; i < arguments.length; i++){
+    if(arguments[i] === 0)
+      return 0;
     resultado = resultado * arguments[i];
   }
   return resultado;
