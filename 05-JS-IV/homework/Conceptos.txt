@@ -1,0 +1,12 @@
+Objetos: Dentro de JS, los objetos son elementos que almacenan propiedades(las cuales pueden ser variables, constantes o metodos). 
+         Ej: una manzana, puede tener las propiedades de tipo, color, peso, etc.
+
+Propiedades: Dentro de los objetos se definen sus propiedades de una forma "key : value", osea un nombre y un valor asociado. 
+             Pueden ser variables, constantes o metodos que retornen un valor.
+
+Metodos: Se denominan metodos, a las funciones que se implementan dentro de un objeto.
+
+Bucle for_in: Es una funcion similar al "for", que permite iterar sobre todos las propiedades de un objeto.
+
+Notacion de puntos vs Notacion de corchetes: Tecnicamente el resultado o funcionalidad es la misma, ya que sirve para acceder al valor de una propiedad del objeto.
+
