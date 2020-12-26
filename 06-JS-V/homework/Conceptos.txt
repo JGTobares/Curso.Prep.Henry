@@ -1,0 +1,7 @@
+- prototype: En JS al crear una clase, las propiedades se almacenan en el constructor y los metodos sobre el prototype. 
+            Es una funcionalidad que permite reutilizar los metodos sobre cualquier objeto creado con ese constructor.
+            Es posible crear clases con los metodos de otras clases.
+
+- _Constructors_: En JS el constructor es la declaracion en codigo para definir una clase, se declada con una estructura definida
+                a traves del keyword 'fuction Axds() {}', y con la primer letra del nombre en mayuscula por convencion.
+                Los constructores permiten crear nuevas instancias a objetos con las propiedades y metodos definidos en el constructor y prototype.
