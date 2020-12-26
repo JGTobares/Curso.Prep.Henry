@@ -1,0 +1,1 @@
+Funciones Callbacks: En JS los callback son una funcionalidad que permite pasar funciones como argumentos, retornar funciones y almacenar funciones en diferentes tipos de objetos.
