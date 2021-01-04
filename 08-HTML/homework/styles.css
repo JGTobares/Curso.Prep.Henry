@@ -1,0 +1,37 @@
+#h1Id {
+    color: firebrick;
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+}
+.imgClass {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600;
+    width: 500;
+    background-color: grey;
+    padding: 50px;
+    border: 1px black;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+#webId {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/987/104/939/soft-face-gradation-blur-wallpaper-preview.jpg") ;
+    background-size: cover;
+}
+div{
+    margin: 0 auto; /* La config para centrar elementos lo extraje del curso de Estructuras de CSS */
+    width: 600px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+* { /*Al selector universal lo extraje de w3school.com */
+    margin: 0 auto;
+    width: 600 px;
+    text-align: center; /* Esta propiedad la vi en un ejemplo de w3school.com */
+}
