@@ -23,15 +23,24 @@
     background-size: cover;
 }
 div{
-    margin: 0 auto; /* La config para centrar elementos lo extraje del curso de Estructuras de CSS */
+    margin: 0 auto; 
     width: 600px;
     display: flex;
     flex-flow: column;
     justify-content: center;
     align-items: center;
 }
-* { /*Al selector universal lo extraje de w3school.com */
-    margin: 0 auto;
-    width: 600 px;
-    text-align: center; /* Esta propiedad la vi en un ejemplo de w3school.com */
+h{
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+/*
+* { /*Al selector universal lo extraje de w3school.com 
+    margin: 0 auto; /* La config para centrar elementos lo extraje del curso de Estructuras de CSS 
+    width: 600 px;
+    text-align: center; /* Esta propiedad la vi en un ejemplo de w3school.com 
+}
+*/
